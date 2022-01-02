@@ -2,7 +2,8 @@
 ### REACT APP SETUP WITH WBPACK MODULE BUNDLER
 
 #### Basic setup to get going with React and Webpack
-#### Clone Repo and install with 
+#### Clone Repo and then
+#### install with 
 ```
 npm install
 ```
@@ -11,6 +12,8 @@ npm install
 ```
 npm run start
 ```
+
+#### App will run on port 3000
 
 #### To build run 
 ```
